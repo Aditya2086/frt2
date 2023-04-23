@@ -1,6 +1,6 @@
 # FRT2 :- Future Ready Talent Project By Aditya Chauhan
 
-Hello I Created A Website Of KOVID
+Hello I Created A Website Of KOVID. 
 KOVID is a comprehensive platform that provides accurate and up-to-date information about COVID-19. Our platform aims to educate people about the pandemic and its impact on health and society, as well as provide resources and guidelines to help individuals and communities stay safe and healthy.
 
 ## Website Link :- https://white-desert-04c3b5a10.3.azurestaticapps.net
